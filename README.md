@@ -1,5 +1,6 @@
 # Project2-CPSC535
-**Introduction**
+<ins>Introduction:</ins>
+
 In this project an algorithm related to hash tables is implemented. project is about reading a large number of distinct product numbers (7-digit each) and deciding which digit among the seven gives the best balanced storage of the items. 
 
 **Choosing the hash function**
