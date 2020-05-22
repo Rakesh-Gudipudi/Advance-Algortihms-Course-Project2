@@ -3,7 +3,7 @@
 
 In this project an algorithm related to hash tables is implemented. project is about reading a large number of distinct product numbers (7-digit each) and deciding which digit among the seven gives the best balanced storage of the items. 
 
-**Choosing the hash function**
+<ins>**Choosing the hash function:**</ins>
 
 At an optometrist store, glasses of various sizes and shapes are displayed in a glass display that has 10 cubbies or sections. Each pair of glasses is unique and has a 7-digit barcode. You have too many pairs of glasses to store them in the same cubby, plus only few would be visible. You are tasked with organizing the pairs of glasses into cubbies such that most of them are visible. You came up with an idea of storing the pairs of glasses based on a single digit of their product number. So you try to group them based on the first digit, second digit, .., seventh (and last digit). (The digits are read from left to right; e.g. for the number 8976565, the first digit is 8, the second is 9, the third is 7, the fourth is 6, the fifth is 5, the sixth is 6 and the seventh and last is 5.) You settle on the digit that gives the best “balancing” of storing the pairs of glasses, i.e., the difference between the number of pairs of glasses in the most populated cubby and the least populated cubby is minimized among all possible five options.
 
